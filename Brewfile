@@ -77,7 +77,7 @@ cask 'tinkerwell'
 # cask 'transmission'
 # cask 'transmit'
 # cask 'vlc'
-cask iterm2
+# cask iterm2
 cask gitkraken
 cask bear
 cask zoomus
