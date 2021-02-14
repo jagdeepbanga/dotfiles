@@ -19,7 +19,7 @@ brew 'mackup'
 brew 'mas' # Mac App Store manager
 # brew 'pkg-config' # https://github.com/driesvints/dotfiles/issues/20
 # brew 'stripe/stripe-cli/stripe'
-# brew 'svn'
+brew 'svn'
 # brew 'trash' # Manage the Trash bin
 # brew 'tree' # List directories in a tree structure
 # brew 'zlib' # Needed for Memcached
@@ -34,7 +34,6 @@ brew 'mas' # Mac App Store manager
 # Development
 brew 'php'
 brew 'php@7.4'
-brew 'php@7.3'
 brew 'composer'
 brew 'imagemagick'
 brew 'libmemcached'
@@ -77,7 +76,6 @@ cask 'tableplus'
 cask 'tinkerwell'
 # cask 'transmission'
 # cask 'transmit'
-# cask 'visual-studio-code'
 # cask 'vlc'
 
 # Quicklook
@@ -99,7 +97,7 @@ cask 'font-source-serif-pro'
 # mas 'Giphy Capture', id: 668208984
 # mas 'Keynote', id: 409183694
 # mas 'Numbers', id: 409203825
-# mas 'Spark', id: 1176895641
+mas 'Spark', id: 1176895641
 # mas 'Speedtest', id: 1153157709
 # mas 'Things', id: 904280696
 # mas 'Tweetbot', id: 1384080005
