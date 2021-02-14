@@ -54,9 +54,9 @@ cask 'alfred'
 cask 'discord'
 cask 'docker'
 # cask 'figma'
-# cask 'firefox'
+cask 'firefox'
 # cask 'github'
-# cask 'google-backup-and-sync'
+cask 'google-backup-and-sync'
 cask 'google-chrome'
 # cask 'gpg-suite'
 #cask 'imageoptim'
@@ -72,11 +72,17 @@ cask 'slack'
 cask 'sublime-text'
 cask 'tableplus'
 # cask 'telegram-desktop'
-# cask 'the-unarchiver'
+cask 'the-unarchiver'
 cask 'tinkerwell'
 # cask 'transmission'
 # cask 'transmit'
 # cask 'vlc'
+cask iterm2
+cask gitkraken
+cask bear
+cask zoomus
+cask adobe-acrobat-reader
+cask brave-browser
 
 # Quicklook
 # cask 'qlmarkdown'
